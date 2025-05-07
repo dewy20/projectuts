@@ -1,0 +1,9 @@
+
+body {
+    background-color: aqua;
+}
+.container {
+    width: 800px;
+    background: azure;
+    margin: 0 auto;
+}
