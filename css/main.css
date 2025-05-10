@@ -1,9 +1,10 @@
 
 body {
-    background-color: aqua;
+    background-color: rgb(17, 174, 174);
 }
 .container {
     width: 800px;
-    background: azure;
+    background: rgb(49, 160, 160);
     margin: 0 auto;
 }
+
