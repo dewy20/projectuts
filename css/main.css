@@ -8,3 +8,21 @@ body {
     margin: 0 auto;
 }
 
+#bgvideo{
+    position: fixed;
+    top:0 ;
+    left:0 ;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.container{
+    position: relative;
+    z-index: -1;
+    text-align: center;
+    color: white;
+    padding-top: 20%;
+    font-family: sans-serif;
+}
